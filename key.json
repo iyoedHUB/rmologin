@@ -19,13 +19,5 @@
     "updateUrl": "https://t.me/ranger_merah_ori"
   },
   "BannedHWIDs": {},
-  "Keys": {
-    "DPMods-DOG6YZ": {
-      "hwid": "C9153503CF817B46",
-      "expireDate": "2026-05-01",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
-    }
-  }
+  "Keys": {}
 }
