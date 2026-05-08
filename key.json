@@ -15,7 +15,7 @@
     ],
     "title": "RMO PREMIUM LOGIN",
     "updateMsg": "New version available ! Please update",
-    "updateRequired": true,
+    "updateRequired": false,
     "updateUrl": "https://t.me/ranger_merah_ori"
   },
   "BannedHWIDs": {},
