@@ -1,7 +1,7 @@
 {
   "AppConfig": {
     "bannerText": "Awaiting Authentication",
-    "getKeyText": "🔑 Get Key ↗️",
+    "getKeyText": "🔑 Get Key",
     "getKeyUrl": "https://t.me/ranger_merah_ori",
     "imageUrl": "https://www.image2url.com/r2/default/images/1778238839305-d7ee2e12-50b6-4945-8cf8-4d7e28879d7b.png",
     "loginBtnText": "AUTHENTICATE",
